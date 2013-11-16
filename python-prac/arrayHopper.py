@@ -3,7 +3,7 @@ import sys, copy
 
 allPossibleSolutions = []
 #keep track of current shortest solution length
-shortestSolutionLength = 999999
+shortestSolutionLength = 99999999
 
 #Parse the input file and store it into an array
 def initialize():
